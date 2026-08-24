@@ -18,12 +18,6 @@ Me interesa especialmente todo lo relacionado con la seguridad ofensiva y el an�
 
 ## Lenguajes de programación
 
-> [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()<br/>
-
-> [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white&labelColor=101010)]()<br/>
-
-> [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)]()<br/>
-> [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()<br/>
 
 ## Tecnologías y herramientas
 
