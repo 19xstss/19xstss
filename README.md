@@ -18,7 +18,6 @@ Me interesa especialmente todo lo relacionado con la seguridad ofensiva y el anÃ
 
 ## Lenguajes de programaciÃ³n
 
-> [![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()<br/>
 > [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()<br/>
 > [![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()<br/>
 > [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=101010)]()<br/>
