@@ -14,7 +14,7 @@ Me interesa especialmente todo lo relacionado con la seguridad ofensiva y el an�
 - Seguridad de aplicaciones web
 - Pentesting
 - Automatización & Scripting
-- nvestigación de vulnerabilidades
+- navestigación de vulnerabilidades
 
 ## 💻 Lenguajes de programación
 
