@@ -18,10 +18,10 @@ Me interesa especialmente todo lo relacionado con la seguridad ofensiva y el anÃ
 
 ## Lenguajes de programaciÃ³n
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+> ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+> ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## TecnologÃ­as y herramientas
 
@@ -32,5 +32,5 @@ Me interesa especialmente todo lo relacionado con la seguridad ofensiva y el anÃ
 
 ## Redes Sociales
 
-[![Discord](https://img.shields.io/badge/Discord-19xst-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![Telegram](https://img.shields.io/badge/Telegram-Grupo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/X293exe)
+> [![Discord](https://img.shields.io/badge/Discord-19xst-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+> [![Telegram](https://img.shields.io/badge/Telegram-Grupo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/X293exe)
