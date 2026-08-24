@@ -30,13 +30,7 @@ Me interesa especialmente todo lo relacionado con la seguridad ofensiva y el an�
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 Estadísticas de GitHub
+## 📊 Redes Sociales
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=19xstss&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=19xstss&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
-
-> "The quieter you become, the more you are able to hear." — Rumi
+[![Discord](https://img.shields.io/badge/Discord-19xst-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Telegram](https://img.shields.io/badge/Telegram-Grupo-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/X293exe)
