@@ -4,7 +4,7 @@ Apasionado por la **ciberseguridad**, el **Red Team** y la búsqueda de vulnerab
 En constante aprendizaje sobre **Bug Bounty**, pentesting y seguridad informática.  
 Me gusta programar herramientas, automatizar tareas y experimentar con nuevas tecnologías.
 
-## 🛡️ Mi enfoque
+## Mi enfoque
 
 Me interesa especialmente todo lo relacionado con la seguridad ofensiva y el análisis de sistemas.
 
